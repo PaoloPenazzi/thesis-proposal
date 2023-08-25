@@ -1,3 +1,10 @@
+## [1.3.0](https://github.com/PaoloPenazzi/thesis-proposal/compare/1.2.0...1.3.0) (2023-08-25)
+
+
+### Features
+
+* change supervisors list to itemize ([5513251](https://github.com/PaoloPenazzi/thesis-proposal/commit/55132516ce2544af8f77ac206372e960ccf891ab))
+
 ## [1.2.0](https://github.com/PaoloPenazzi/thesis-proposal/compare/1.1.0...1.2.0) (2023-08-25)
 
 
