@@ -20,7 +20,6 @@ jobs:
           root_file: main.tex
           args: -pdf -file-line-error -halt-on-error -interaction=nonstopmode -shell-escape
 
-# choose the pdf name
       - name: Rename report file
         run: mv main.pdf thesis-proposal.pdf
         
