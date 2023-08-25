@@ -1,3 +1,16 @@
+## [1.2.0](https://github.com/PaoloPenazzi/thesis-proposal/compare/1.1.0...1.2.0) (2023-08-25)
+
+
+### Features
+
+* first iteration of the proposal concluded ([0294e24](https://github.com/PaoloPenazzi/thesis-proposal/commit/0294e2457c9c6ca559875916ec2318e950637c11))
+
+
+### General maintenance
+
+* refactor text ([9cb7ace](https://github.com/PaoloPenazzi/thesis-proposal/commit/9cb7acea21bd249b2228e8224250d58e16291bc3))
+* remove references ([340af4d](https://github.com/PaoloPenazzi/thesis-proposal/commit/340af4d3403806c9fd598baa4e792b96da69db26))
+
 ## [1.1.0](https://github.com/PaoloPenazzi/thesis-proposal/compare/1.0.0...1.1.0) (2023-08-25)
 
 
