@@ -1,3 +1,17 @@
+## [1.1.0](https://github.com/PaoloPenazzi/thesis-proposal/compare/1.0.0...1.1.0) (2023-08-25)
+
+
+### Features
+
+* add context section and project description ([c0f960d](https://github.com/PaoloPenazzi/thesis-proposal/commit/c0f960d38d22fe30dca690c3e325002363b81565))
+* change front page layout ([5d5ec87](https://github.com/PaoloPenazzi/thesis-proposal/commit/5d5ec870f382587e698d607703de217d74bb4735))
+
+
+### Bug Fixes
+
+* fix latex build ([ab6af5c](https://github.com/PaoloPenazzi/thesis-proposal/commit/ab6af5c7889cb65b75e10328cd140fe248412e0b))
+* fix latex build ([d4fc4cd](https://github.com/PaoloPenazzi/thesis-proposal/commit/d4fc4cdbfe2bf484a50b4e3a7a042da328d5c4cc))
+
 ## 1.0.0 (2023-08-25)
 
 
