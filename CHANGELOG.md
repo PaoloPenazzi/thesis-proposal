@@ -1,3 +1,16 @@
+## 1.0.0 (2023-08-25)
+
+
+### Features
+
+* add motivation section ([878d5d6](https://github.com/PaoloPenazzi/thesis-proposal/commit/878d5d6dc3252ed5707b884da94dd854a6a610d9))
+
+
+### General maintenance
+
+* change pdf name ([c617e84](https://github.com/PaoloPenazzi/thesis-proposal/commit/c617e845d93173e2260816c753ac4cd6da19d2e1))
+* remove useless files ([99816a7](https://github.com/PaoloPenazzi/thesis-proposal/commit/99816a7a0ca1cc1367329d4bb8ec36d54b70cb2f))
+
 ## [1.1.0](https://github.com/PaoloPenazzi/latex-template/compare/1.0.0...1.1.0) (2023-08-25)
 
 
