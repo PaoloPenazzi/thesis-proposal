@@ -1,3 +1,11 @@
+## [1.4.0](https://github.com/PaoloPenazzi/thesis-proposal/compare/1.3.0...1.4.0) (2023-08-30)
+
+
+### Features
+
+* add a new page after the title ([9e655c2](https://github.com/PaoloPenazzi/thesis-proposal/commit/9e655c2607e1eb3506d77c4aa45e053b6dd7f17d))
+* change context chapter and title page ([1fc248d](https://github.com/PaoloPenazzi/thesis-proposal/commit/1fc248d44308a5bc995d851c242a80030910d51a))
+
 ## [1.3.0](https://github.com/PaoloPenazzi/thesis-proposal/compare/1.2.0...1.3.0) (2023-08-25)
 
 
